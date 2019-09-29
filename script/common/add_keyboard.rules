@@ -1,0 +1,4 @@
+KERNEL=="event*", OWNER="root", GROUP="input", MODE="664" , SYMLINK+="autolabor_keyboard"
+
+
+  
